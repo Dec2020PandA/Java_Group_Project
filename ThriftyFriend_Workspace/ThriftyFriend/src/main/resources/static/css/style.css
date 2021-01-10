@@ -66,3 +66,28 @@ body{
 {
 	height:70px;
 }
+
+
+/*this is for the main header tag */
+#navcol{
+	padding: 13px;
+	align-items: center !important;
+}
+#main-navbar{
+	text-align: center;
+	
+	padding-left: 9.25%;
+}
+#user-status{
+	text-align: right;
+	padding: 5px;
+	padding-right: 25px;
+}
+
+
+
+
+
+
+
+
